@@ -1,0 +1,6 @@
+framework module Pods_CovidMap {
+  umbrella header "Pods-CovidMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
